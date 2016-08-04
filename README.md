@@ -46,6 +46,7 @@ A Java project (using [IntelliJ IDEA](https://www.jetbrains.com/idea/download/))
 
 While designing your client, please consider that this client may potentially need to feed the inferred metadata to a backend server in a future release.
 
+You will find a test APK inside the `etc/` directory, to use while developing your client.
 
 ## Legal
 Please note that any code, documentation and/or artifacts you submit as part of this exercise becomes the property of Mason America Inc. which reserves the right to use or modify this code as seen fit.
