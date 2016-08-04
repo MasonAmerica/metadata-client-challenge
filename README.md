@@ -42,7 +42,7 @@ mdcli --input <infilename> --package <package> [--output <outfilename>]
 
 ## Notes
 
-A Java project (using [Gradle](http://www.gradle.org)) is included as a starter. You are under no obligation to build a Java client; other languages are acceptable if you are able to find supporting libraries.
+A Java project (using [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)) is included as a starter. You are under no obligation to build a Java client; other languages are acceptable if you are able to find supporting libraries.
 
 While designing your client, please consider that this client may potentially need to feed the inferred metadata to a backend server in a future release.
 
